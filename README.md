@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DouglasDavis-coder
-- 👀 I’m interested in learning new skills and want to become a ethical hacker with a change of career.
-- 🌱 I’m currently learning ethical hacking and python.
+- 👀 I’m interested in learning new skills and want to create apps.
+- 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate with other people who have just started this wild ride, and have minimul experience like me.
 - 📫 How to reach me ...
 
